@@ -23,7 +23,7 @@ function draw() {
 }
 ```
 
-*[#1](https://editor.p5js.org/miahbates/sketches/-WDUSWVnL)*
+*[#1](https://editor.p5js.org/miahbates/sketches/73PiVZTnK)*
 
 <img width="706" alt="Screenshot 2022-06-26 at 13 19 12" src="https://user-images.githubusercontent.com/78933903/175813824-d4ca6082-7c5a-4031-a95b-671955254780.png">
 
