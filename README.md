@@ -1,5 +1,5 @@
 # Generative art (in progress...) 🟪🟦🟩🟥🟧
-* Experimenting with generative pixel art. 
+* Experimenting with generative art. 
 * Each numbered image in the read me corresponds to an explaination in the javascript file. 
 * Click on the links to see in [P5](https://p5js.org/get-started/)
 
